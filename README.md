@@ -9,7 +9,7 @@
     "tools": ["PostgreSQL", "Redis", "Docker", "Git", "Swagger", "Nginx"],
     "contacts": {
       "telegram": "https://t.me/tenkwas",
-      "email": "www.teneshi13@gmail.com"
+      "email": "www.ten3shi13@gmail.com"
     }
   }  
 }
