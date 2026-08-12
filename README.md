@@ -1,16 +1,37 @@
-## Hi there 👋
-
-<!--
-**ten3shi13/ten3shi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "ten3shi13": {
+    "fullname": "Bogdan Zhurov",
+    "age": 21,
+    "languages": [
+      "C#",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "frameworks": [
+      ".NET",
+      "ASP.NET Core",
+      "Entity Framework Core",
+      "Next.js",
+    ],
+    "architecture": [
+      "Clean Architecture",
+      "DDD",
+      "CQRS",
+      "MediatR"
+    ],
+    "tools": [
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "Git",
+      "Swagger",
+      "Nginx"
+    ],
+    "contacts": {
+      "telegram": "https://t.me/tenkwas",
+      "email": "www.teneshi13@gmail.com"
+    }
+  }  
+}
+```
